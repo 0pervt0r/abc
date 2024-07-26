@@ -1,15 +1,8 @@
    body {background: #151e25}
-  p {
-  font-size: 12px;
-  font-family: Gill Sans;
-}
 
-  h {
-  font-size: 12px;
-  font-family: Gill Sans;
+.container {
+    width: 800px;
+    margin: 0 auto; 
 }
-.aligncenter {
-    text-align: center;
-</style>
 
  
