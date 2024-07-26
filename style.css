@@ -7,9 +7,12 @@ body {background: #151e25}
     margin: 0 auto; 
 }
 
-url(https://i.imgur.com/pbafp9p.png)
 #main {
     background: url(https://i.imgur.com/pbafp9p.png) repeat-x; 
 }
+#main .container {
+    background: url(https://i.imgur.com/yY5ctGp.png) no-repeat; 
+}
+
 
 
