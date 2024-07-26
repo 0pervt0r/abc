@@ -15,10 +15,12 @@ body {background: #151e25}
 }
 
 #logo {
+ #logo h1 {
+    text-indent: -9999px; 
+}
     background: url(https://i.imgur.com/yY5ctGp.png) no-repeat;
      height: 84px;
      width: 235px; 
-
 }
 
 
